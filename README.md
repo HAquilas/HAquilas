@@ -2,7 +2,7 @@
 
 I am an Epitech Bachelor graduate and full-stack web developer who loves technology and problem-solving in general. I love working on projects that make people's lives easier and have a significant impact on them. I also enjoy learning, on a daily basis, new technologies which allows me to move faster and build with more security and efficiency.
 
-Feel free to send me an [email](mailto:your.email@example.com) or a message on [LinkedIn](https://linkedin.com/in/your-username) so we can connect or discuss opportunities.
+Feel free to reach out to me via [Email](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/your-username) so we can connect or discuss opportunities.
 
 ---
 
