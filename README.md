@@ -6,7 +6,7 @@ Feel free to reach out to me via [Email](hounkanrinaquilas77@gmail.com) or [Link
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,nodejs,prisma,mongodb,postgres" alt="My Tech Stack" />
