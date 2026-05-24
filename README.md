@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aquilas 👋
 
-<!--
-**HAquilas/HAquilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate full-stack developer who loves technology and problem-solving in general. As an Epitech Bachelor graduate, I love working on projects that improve daily life. I enjoy learning new technologies that allow me to move faster and build applications with more security and efficiency. 
 
-Here are some ideas to get you started:
+Feel free to send me an [email](mailto:your.email@example.com) or a message on [LinkedIn](https://linkedin.com/in/your-username) so we can connect or discuss opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,nodejs,prisma,mongodb,postgres" alt="My Tech Stack" />
+</p>
